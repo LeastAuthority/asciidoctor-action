@@ -7,6 +7,7 @@ RUN apk add \
       freetype-dev \
       harfbuzz \
       ca-certificates \
+      ttf-font-awesome \
       ttf-freefont \
       nodejs \
       npm \
