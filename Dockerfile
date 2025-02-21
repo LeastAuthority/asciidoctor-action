@@ -1,4 +1,4 @@
-FROM asciidoctor/docker-asciidoctor:1.60@sha256:0c8df5a7688303b70fb8db3bec25c19503d7232d38b61cfaef0c943e1722c018
+FROM asciidoctor/docker-asciidoctor:1.82@sha256:3aa285210a046dcbc2f04d248df8db58e7196873f1659727168e5cea20416e91
 
 RUN apk add \
       chromium \
